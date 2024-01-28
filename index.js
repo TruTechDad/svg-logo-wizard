@@ -7,13 +7,13 @@ const questions = [
   {
     type: "input",
     name: "text",
-    message: "Enter up to three characters:",
+    message: "Enter only 3 characters:",
     validate: (input) => input.length <= 3,
   },
   {
     type: "input",
     name: "textColor",
-    message: "Enter text color (color keyword or hexadecimal number):",
+    message: "Enter color name or hexadecimal numbers:",
   },
   {
     type: "list",
@@ -24,7 +24,7 @@ const questions = [
   {
     type: "input",
     name: "shapeColor",
-    message: "Enter shape color (color keyword or hexadecimal number):",
+    message: "Enter the color of the shape or hexadecimal numbers):",
   },
 ];
 
