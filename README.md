@@ -37,6 +37,7 @@ This project is licensed under the terms of the [MIT License](https://opensource
 
 ## Link
 (https://TruTechDad.github.io/svg-logo-wizard)
+(https://github.com/TruTechDad/svg-logo-wizard)
 
 ## Link to Walkthrough Video 
 (https://youtu.be/c2Ycl04Czys?si=1bu6Axc4aPnl4nKG)
